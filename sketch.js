@@ -38,7 +38,7 @@ function draw() {
     // Cabeçalho com instruções e informações
     fill(0);
     textSize(26);
-    text("Clique nos elementos da cidade para gerar ⚡ energia!", width / 2, 30);
+    text("Clique nos elemento da cidade para gerar ⚡ energia!", width / 2, 30);
     textSize(20);
     text("Energia Sustentável: ⚡ " + energia, width / 2, 65);
     text("⏱️ Tempo restante: " + tempoRestante + "s", width / 2, 95);
