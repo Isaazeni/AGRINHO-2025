@@ -1,5 +1,7 @@
 # AGRINHO-2025
 
+https://chatgpt.com/?model=auto
+
 Durante minhas pesquisas para o projeto do Agrinho, tive a ideia de criar um jogo interativo em p5.js com o tema "Festejando a conexão entre campo e cidade". Pensei em desenvolver algo divertido e educativo, que transmitisse uma mensagem sobre a importância da energia sustentável e como as ações nas cidades podem beneficiar o campo.
 
 Minha proposta foi criar um jogo que apresenta a seguinte pergunta:
