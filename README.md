@@ -29,4 +29,4 @@ Quero que os emojis fiquem sendo atualizados constantemente e que o jogo tenha u
 
 Preciso que todas as funções estejam explicadas com comentários // em português.
 
-Toda vez que o jogador clicar em um emoji do campo, ele perde energia. Quando o jogador conseguir clicar nos 20 emojis da cidade antes do tempo acabar, o jogo pode encerrar mais cedo com vitória." Script ussado para montar meu jogo.
+Toda vez que o jogador clicar em um emoji do campo, ele perde energia. Quando o jogador conseguir clicar nos 20 emojis da cidade antes do tempo acabar, o jogo pode encerrar mais cedo com vitória." Script usado para montar meu jogo.
